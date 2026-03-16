@@ -63,3 +63,5 @@ python manage.py load_data customer_data.xlsx loan_data.xlsx --async
 ```bash
 python manage.py test
 ```
+##OUTPUT
+<img width="1409" height="909" alt="image" src="https://github.com/user-attachments/assets/8601772c-b28d-414d-b1e1-f2354bcb5002" />
