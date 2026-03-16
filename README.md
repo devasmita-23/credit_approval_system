@@ -37,7 +37,7 @@ Run everything with a single command:
 
 ```bash
 cd credit_approval
-docker-compose up --build
+docker-compose up --build 
 ```
 
 - API: http://localhost:8000
@@ -63,5 +63,15 @@ python manage.py load_data customer_data.xlsx loan_data.xlsx --async
 ```bash
 python manage.py test
 ```
-##OUTPUT
+**##Outputs**
+![WhatsApp Image 2026-03-16 at 9 00 18 PM](https://github.com/user-attachments/assets/e87090c7-cbd0-4695-8b81-2e09e58273d4)
+
+**##Docker desktop**
 <img width="1409" height="909" alt="image" src="https://github.com/user-attachments/assets/8601772c-b28d-414d-b1e1-f2354bcb5002" />
+<img width="1271" height="629" alt="image" src="https://github.com/user-attachments/assets/1025c95d-926a-4cf3-a7d1-02bb3090759f" />
+<img width="1258" height="598" alt="image" src="https://github.com/user-attachments/assets/0d737abc-82b1-4ed5-906e-61fcfa3dd43a" />
+<img width="1015" height="519" alt="image" src="https://github.com/user-attachments/assets/e197373b-2294-4ebf-9e5b-52b56cbb8e6c" />
+
+
+
+
